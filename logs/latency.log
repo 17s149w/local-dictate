@@ -1,0 +1,425 @@
+[latency] clip=4.4s release->pasted=228ms
+[latency] clip=22.5s release->pasted=412ms
+[latency] clip=8.6s release->pasted=193ms
+[latency] clip=2.9s release->pasted=210ms
+[latency] clip=32.5s release->pasted=566ms
+[latency] clip=2.6s release->pasted=206ms
+[latency] clip=1.7s release->pasted=184ms
+[latency] clip=1.7s release->pasted=191ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=6.2s release->pasted=180ms
+[latency] clip=5.7s release->pasted=258ms
+[latency] clip=4.5s release->pasted=188ms
+[latency] clip=2.4s release->pasted=207ms
+[latency] clip=2.7s release->pasted=185ms
+[latency] clip=2.7s release->pasted=193ms
+[latency] clip=4.8s release->pasted=195ms
+[latency] clip=7.4s release->pasted=193ms
+[latency] clip=3.0s release->pasted=197ms
+[latency] clip=50.1s release->pasted=618ms
+[latency] clip=2.7s release->pasted=192ms
+[latency] clip=6.4s release->pasted=177ms
+[latency] clip=2.8s release->pasted=192ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=19.7s release->pasted=196ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=58.7s release->pasted=859ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=59.9s release->pasted=1371ms clean=961ms
+[latency] clip=18.9s release->pasted=1122ms clean=826ms
+[latency] clip=14.6s release->pasted=820ms clean=579ms
+[latency] clip=3.2s release->pasted=631ms clean=427ms
+[latency] clip=59.0s release->pasted=2206ms clean=1741ms
+[latency] clip=3.4s release->pasted=167ms clean=0ms
+[latency] clip=2.4s release->pasted=743ms clean=477ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=10.9s release->pasted=2725ms clean=2503ms
+[latency] clip=44.2s release->pasted=2880ms clean=2502ms
+[latency] clip=5.6s release->pasted=1994ms clean=695ms
+[latency] clip=11.4s release->pasted=1118ms clean=688ms
+[latency] clip=2.1s release->pasted=763ms clean=399ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=21.4s release->pasted=2078ms clean=1090ms
+[latency] clip=1.3s release->pasted=1379ms clean=636ms
+[latency] clip=2.5s release->pasted=722ms clean=396ms
+[latency] clip=23.9s release->pasted=1296ms clean=899ms
+[latency] clip=1.0s release->pasted=786ms clean=440ms
+[latency] clip=71.8s release->pasted=3069ms clean=1835ms
+[latency] clip=11.8s release->pasted=923ms clean=638ms
+[latency] clip=11.9s release->pasted=1102ms clean=749ms
+[latency] clip=8.1s release->pasted=871ms clean=596ms
+[latency] clip=9.0s release->pasted=870ms clean=579ms
+[latency] clip=90.0s release->pasted=3349ms clean=2505ms
+[latency] clip=21.3s release->pasted=3568ms clean=2502ms
+[latency] clip=21.6s release->pasted=2878ms clean=1512ms
+[latency] clip=10.6s release->pasted=1359ms clean=597ms
+[latency] clip=2.8s release->pasted=1105ms clean=630ms
+[latency] clip=2.5s release->pasted=929ms clean=552ms
+[latency] clip=62.9s release->pasted=2325ms clean=1884ms
+[latency] clip=42.4s release->pasted=3875ms clean=1808ms
+[latency] clip=52.3s release->pasted=3099ms clean=2504ms
+[latency] clip=20.9s release->pasted=1305ms clean=752ms
+[latency] clip=12.9s release->pasted=1453ms clean=1028ms
+[latency] clip=11.2s release->pasted=1372ms clean=785ms
+[latency] clip=2.6s release->pasted=1068ms clean=613ms
+[latency] clip=67.9s release->pasted=4341ms clean=2505ms
+[latency] clip=120.0s release->pasted=3643ms clean=2502ms
+[latency] clip=36.1s release->pasted=1611ms clean=1166ms
+[latency] clip=40.9s release->pasted=2525ms clean=2038ms
+[latency] clip=13.1s release->pasted=1546ms clean=1028ms
+[latency] clip=3.3s release->pasted=1535ms clean=447ms
+[latency] clip=4.3s release->pasted=3909ms clean=657ms
+[latency] clip=120.0s release->pasted=3428ms clean=2503ms
+[latency] clip=65.6s release->pasted=2692ms clean=2148ms
+[latency] clip=36.4s release->pasted=2271ms clean=1795ms
+[latency] clip=70.5s release->pasted=4554ms clean=2402ms
+[latency] clip=1.9s release->pasted=1789ms clean=560ms
+[latency] clip=8.1s release->pasted=1995ms clean=587ms
+[latency] clip=33.3s release->pasted=3964ms clean=2013ms
+[latency] clip=3.1s release->pasted=5043ms clean=636ms
+[latency] clip=46.8s release->pasted=4621ms clean=2334ms
+[latency] clip=41.4s release->pasted=1536ms clean=1110ms
+[latency] clip=34.0s release->pasted=1601ms clean=1220ms
+[latency] clip=13.0s release->pasted=1356ms clean=801ms
+[latency] clip=31.9s release->pasted=1623ms clean=1189ms
+[latency] clip=15.3s release->pasted=1735ms clean=1386ms
+[latency] clip=28.4s release->pasted=1527ms clean=1125ms
+[latency] clip=12.0s release->pasted=1348ms clean=920ms
+[latency] clip=41.3s release->pasted=2999ms clean=2502ms
+[latency] clip=1.6s release->pasted=1380ms clean=536ms
+[latency] clip=39.8s release->pasted=2318ms clean=1868ms
+[latency] clip=89.6s release->pasted=3245ms clean=2502ms
+[latency] clip=29.2s release->pasted=3259ms clean=964ms
+[latency] clip=63.6s release->pasted=1268ms clean=514ms
+[latency] clip=27.0s release->pasted=1726ms clean=1361ms
+[latency] clip=14.0s release->pasted=1071ms clean=460ms
+[latency] clip=48.4s release->pasted=1710ms clean=1259ms
+[latency] clip=66.7s release->pasted=2622ms clean=2058ms
+[latency] clip=102.2s release->pasted=3210ms clean=2501ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=2.9s release->pasted=1639ms clean=593ms
+[latency] clip=41.0s release->pasted=1518ms clean=1104ms
+[latency] clip=0.5s release->pasted=0ms
+[latency] clip=3.2s release->pasted=3079ms clean=1112ms
+[latency] clip=3.5s release->pasted=1426ms clean=1056ms
+[latency] clip=27.4s release->pasted=2388ms clean=1253ms
+[latency] clip=1.5s release->pasted=786ms clean=456ms
+[latency] clip=65.2s release->pasted=2097ms clean=1557ms
+[latency] clip=97.1s release->pasted=2887ms clean=2011ms
+[latency] clip=1.4s release->pasted=928ms clean=513ms
+[latency] clip=1.2s release->pasted=732ms clean=463ms
+[latency] clip=7.0s release->pasted=1276ms clean=796ms
+[latency] clip=41.7s release->pasted=3104ms clean=1560ms
+[latency] clip=49.1s release->pasted=1973ms clean=1502ms
+[latency] clip=35.0s release->pasted=1661ms clean=1252ms
+[latency] clip=10.0s release->pasted=1376ms clean=909ms
+[latency] clip=44.2s release->pasted=1653ms clean=1272ms
+[latency] clip=120.0s release->pasted=5001ms clean=2322ms
+[latency] clip=71.4s release->pasted=2965ms clean=1935ms
+[latency] clip=30.7s release->pasted=1530ms clean=1071ms
+[latency] clip=15.0s release->pasted=1184ms clean=876ms
+[latency] clip=50.1s release->pasted=1923ms clean=1488ms
+[latency] clip=60.9s release->pasted=1276ms clean=822ms
+[latency] clip=36.6s release->pasted=1654ms clean=1235ms
+[latency] clip=24.5s release->pasted=1516ms clean=1150ms
+[latency] clip=92.5s release->pasted=1665ms clean=847ms
+[latency] clip=60.1s release->pasted=2264ms clean=1747ms
+[latency] clip=12.0s release->pasted=1313ms clean=920ms
+[latency] clip=21.4s release->pasted=1349ms clean=932ms
+[latency] clip=76.0s release->pasted=4013ms clean=1665ms
+[latency] clip=75.6s release->pasted=4430ms clean=1833ms
+[latency] clip=19.8s release->pasted=1525ms clean=1201ms
+[latency] clip=50.0s release->pasted=2959ms clean=1281ms
+[latency] clip=9.9s release->pasted=2838ms clean=652ms
+[latency] clip=18.1s release->pasted=3339ms clean=1235ms
+[latency] clip=20.5s release->pasted=1902ms clean=1359ms
+[latency] clip=43.3s release->pasted=1863ms clean=1388ms
+[latency] clip=19.5s release->pasted=3655ms clean=1199ms
+[latency] clip=30.8s release->pasted=2623ms clean=1119ms
+[latency] clip=51.6s release->pasted=2532ms clean=1512ms
+[latency] clip=61.6s release->pasted=2121ms clean=1593ms
+[latency] clip=115.9s release->pasted=2897ms clean=2083ms
+[latency] clip=68.8s release->pasted=1795ms clean=1303ms
+[latency] clip=43.6s release->pasted=1946ms clean=1460ms
+[latency] clip=116.0s release->pasted=4238ms clean=2263ms
+[latency] clip=19.1s release->pasted=1470ms clean=1084ms
+[latency] clip=53.3s release->pasted=2389ms clean=1793ms
+[latency] clip=119.8s release->pasted=4061ms clean=1990ms
+[latency] clip=64.1s release->pasted=2389ms clean=1744ms
+[latency] clip=63.1s release->pasted=2332ms clean=1680ms
+[latency] clip=88.1s release->pasted=2793ms clean=1953ms
+[latency] clip=82.3s release->pasted=2910ms clean=2064ms
+[latency] clip=77.1s release->pasted=2865ms clean=1773ms
+[latency] clip=57.4s release->pasted=2140ms clean=1584ms
+[latency] clip=17.6s release->pasted=1363ms clean=969ms
+[latency] clip=79.0s release->pasted=1621ms clean=765ms
+[latency] clip=47.9s release->pasted=1528ms clean=974ms
+[latency] clip=35.5s release->pasted=2076ms clean=1281ms
+[latency] clip=60.5s release->pasted=2433ms clean=1778ms
+[latency] clip=13.0s release->pasted=1317ms clean=802ms
+[latency] clip=13.5s release->pasted=1485ms clean=965ms
+[latency] clip=12.1s release->pasted=1363ms clean=924ms
+[latency] clip=17.0s release->pasted=1486ms clean=1021ms
+[latency] clip=9.4s release->pasted=1277ms clean=711ms
+[latency] clip=40.2s release->pasted=2768ms clean=1368ms
+[latency] clip=18.0s release->pasted=3133ms clean=1157ms
+[latency] clip=88.1s release->pasted=3928ms clean=1701ms
+[latency] clip=52.6s release->pasted=2413ms clean=1647ms
+[latency] clip=32.2s release->pasted=2824ms clean=1129ms
+[latency] clip=5.3s release->pasted=1144ms clean=658ms
+[latency] clip=6.9s release->pasted=1375ms clean=885ms
+[latency] clip=25.1s release->pasted=1887ms clean=1447ms
+[latency] clip=26.4s release->pasted=1691ms clean=1298ms
+[latency] clip=5.0s release->pasted=1236ms clean=657ms
+[latency] clip=27.2s release->pasted=1849ms clean=1415ms
+[latency] clip=7.4s release->pasted=1489ms clean=1063ms
+[latency] clip=5.7s release->pasted=862ms clean=444ms
+[latency] clip=89.0s release->pasted=2820ms clean=1972ms
+[latency] clip=27.8s release->pasted=1678ms clean=1259ms
+[latency] clip=9.6s release->pasted=1250ms clean=890ms
+[latency] clip=22.1s release->pasted=2290ms clean=1322ms
+[latency] clip=46.3s release->pasted=1854ms clean=1398ms
+[latency] clip=34.7s release->pasted=1876ms clean=1435ms
+[latency] clip=53.4s release->pasted=2244ms clean=1651ms
+[latency] clip=45.4s release->pasted=1974ms clean=1415ms
+[latency] clip=90.8s release->pasted=3083ms clean=2137ms
+[latency] clip=11.6s release->pasted=1207ms clean=672ms
+[latency] clip=120.0s release->pasted=2029ms clean=1064ms
+[latency] clip=8.1s release->pasted=2054ms clean=901ms
+[latency] clip=26.8s release->pasted=3292ms clean=1325ms
+[latency] clip=19.5s release->pasted=1528ms clean=1005ms
+[latency] clip=83.8s release->pasted=2601ms clean=1842ms
+[latency] clip=14.0s release->pasted=1981ms clean=890ms
+[latency] clip=7.5s release->pasted=1613ms clean=701ms
+[latency] clip=29.1s release->pasted=1267ms clean=922ms
+[latency] clip=9.1s release->pasted=2229ms clean=824ms
+[latency] clip=4.9s release->pasted=839ms clean=503ms
+[latency] clip=9.8s release->pasted=969ms clean=615ms
+[latency] clip=2.9s release->pasted=714ms clean=411ms
+[latency] clip=84.7s release->pasted=4197ms clean=1779ms
+[latency] clip=19.0s release->pasted=3800ms clean=1327ms
+[latency] clip=119.9s release->pasted=3891ms clean=2192ms
+[latency] clip=37.3s release->pasted=1763ms clean=1325ms
+[latency] clip=22.4s release->pasted=1587ms clean=1093ms
+[latency] clip=17.0s release->pasted=1533ms clean=1183ms
+[latency] clip=119.9s release->pasted=2660ms clean=547ms
+[latency] clip=120.0s release->pasted=3027ms clean=779ms
+[latency] clip=2.2s release->pasted=849ms clean=498ms
+[latency] clip=25.7s release->pasted=979ms clean=440ms
+[latency] clip=120.0s release->pasted=3491ms clean=2383ms
+[latency] clip=77.1s release->pasted=2339ms clean=1708ms
+[latency] clip=61.6s release->pasted=2491ms clean=1830ms
+[latency] clip=34.6s release->pasted=1746ms clean=1329ms
+[latency] clip=67.5s release->pasted=2349ms clean=1703ms
+[latency] clip=108.4s release->pasted=1252ms clean=651ms
+[latency] clip=39.2s release->pasted=1863ms clean=1394ms
+[latency] clip=61.8s release->pasted=2223ms clean=1645ms
+[latency] clip=9.6s release->pasted=1166ms clean=640ms
+[latency] clip=55.4s release->pasted=2481ms clean=1812ms
+[latency] clip=34.7s release->pasted=1813ms clean=1341ms
+[latency] clip=6.1s release->pasted=1357ms clean=869ms
+[latency] clip=86.4s release->pasted=2147ms clean=1534ms
+[latency] clip=40.5s release->pasted=2301ms clean=1656ms
+[latency] clip=21.2s release->pasted=1632ms clean=1257ms
+[latency] clip=37.9s release->pasted=1921ms clean=1407ms
+[latency] clip=92.0s release->pasted=3011ms clean=2124ms
+[latency] clip=54.2s release->pasted=2296ms clean=1730ms
+[latency] clip=18.2s release->pasted=2105ms clean=991ms
+[latency] clip=56.5s release->pasted=4188ms clean=1746ms
+[latency] clip=112.9s release->pasted=3284ms clean=2266ms
+[latency] clip=7.3s release->pasted=2534ms clean=702ms
+[latency] clip=17.0s release->pasted=1468ms clean=725ms
+[latency] clip=16.1s release->pasted=1392ms clean=1069ms
+[latency] clip=5.5s release->pasted=848ms clean=494ms
+[latency] clip=12.9s release->pasted=1132ms clean=721ms
+[latency] clip=7.5s release->pasted=862ms clean=478ms
+[latency] clip=40.0s release->pasted=2719ms clean=1394ms
+[latency] clip=1.6s release->pasted=1036ms clean=547ms
+[latency] clip=89.4s release->pasted=2664ms clean=1898ms
+[latency] clip=8.9s release->pasted=999ms clean=611ms
+[latency] clip=80.6s release->pasted=2663ms clean=1965ms
+[latency] clip=35.6s release->pasted=1738ms clean=1364ms
+[latency] clip=91.6s release->pasted=2565ms clean=1841ms
+[latency] clip=83.2s release->pasted=2524ms clean=1809ms
+[latency] clip=24.9s release->pasted=1666ms clean=1310ms
+[latency] clip=48.1s release->pasted=1722ms clean=1344ms
+[latency] clip=4.1s release->pasted=1097ms clean=613ms
+[latency] clip=4.3s release->pasted=955ms clean=551ms
+[latency] clip=40.3s release->pasted=1659ms clean=1322ms
+[latency] clip=5.2s release->pasted=1191ms clean=669ms
+[latency] clip=11.6s release->pasted=1361ms clean=1042ms
+[latency] clip=39.9s release->pasted=1931ms clean=1489ms
+[latency] clip=91.9s release->pasted=3316ms clean=2182ms
+[latency] clip=82.2s release->pasted=2748ms clean=1959ms
+[latency] clip=109.1s release->pasted=2936ms clean=1923ms
+[latency] clip=56.3s release->pasted=2105ms clean=1604ms
+[latency] clip=66.9s release->pasted=3536ms clean=1833ms
+[latency] clip=65.2s release->pasted=2181ms clean=1579ms
+[latency] clip=72.7s release->pasted=3143ms clean=1934ms
+[latency] clip=51.8s release->pasted=3705ms clean=1551ms
+[latency] clip=15.8s release->pasted=2441ms clean=1245ms
+[latency] clip=32.8s release->pasted=2191ms clean=1233ms
+[latency] clip=10.6s release->pasted=1351ms clean=935ms
+[latency] clip=46.7s release->pasted=1927ms clean=1445ms
+[latency] clip=33.6s release->pasted=1186ms clean=671ms
+[latency] clip=120.0s release->pasted=1202ms clean=688ms
+[latency] clip=83.1s release->pasted=1079ms clean=603ms
+[latency] clip=9.7s release->pasted=970ms clean=564ms
+[latency] clip=29.8s release->pasted=1242ms clean=792ms
+[latency] clip=24.8s release->pasted=1622ms clean=1294ms
+[latency] clip=15.9s release->pasted=1548ms clean=628ms
+[latency] clip=11.8s release->pasted=1307ms clean=853ms
+[latency] clip=19.1s release->pasted=1337ms clean=867ms
+[latency] clip=46.7s release->pasted=1733ms clean=1387ms
+[latency] clip=3.8s release->pasted=625ms clean=370ms
+[latency] clip=55.4s release->pasted=2299ms clean=1801ms
+[latency] clip=85.2s release->pasted=2466ms clean=1822ms
+[latency] clip=50.3s release->pasted=1513ms clean=1162ms
+[latency] clip=4.5s release->pasted=678ms clean=398ms
+[latency] clip=13.9s release->pasted=1063ms clean=731ms
+[latency] clip=14.8s release->pasted=1145ms clean=821ms
+[latency] clip=28.7s release->pasted=1347ms clean=950ms
+[latency] clip=2.6s release->pasted=729ms clean=418ms
+[latency] clip=34.1s release->pasted=1231ms clean=817ms
+[latency] clip=25.7s release->pasted=1334ms clean=965ms
+[latency] clip=27.3s release->pasted=1298ms clean=909ms
+[latency] clip=12.2s release->pasted=910ms clean=585ms
+[latency] clip=4.2s release->pasted=788ms clean=488ms
+[latency] clip=42.1s release->pasted=1938ms clean=1554ms
+[latency] clip=25.1s release->pasted=1438ms clean=1148ms
+[latency] clip=12.9s release->pasted=951ms clean=613ms
+[latency] clip=28.5s release->pasted=1676ms clean=1346ms
+[latency] clip=6.4s release->pasted=1120ms clean=767ms
+[latency] clip=19.1s release->pasted=1382ms clean=1011ms
+[latency] clip=8.9s release->pasted=986ms clean=619ms
+[latency] clip=7.6s release->pasted=901ms clean=522ms
+[latency] clip=10.5s release->pasted=1418ms clean=572ms
+[latency] clip=101.5s release->pasted=4048ms clean=2328ms
+[latency] clip=82.8s release->pasted=1936ms clean=1414ms
+[latency] clip=21.2s release->pasted=1811ms clean=1354ms
+[latency] clip=48.6s release->pasted=3644ms clean=1679ms
+[latency] clip=27.4s release->pasted=1336ms clean=944ms
+[latency] clip=26.2s release->pasted=1063ms clean=705ms
+[latency] clip=37.6s release->pasted=1722ms clean=1359ms
+[latency] clip=28.2s release->pasted=1486ms clean=1108ms
+[latency] clip=10.5s release->pasted=827ms clean=492ms
+[latency] clip=95.1s release->pasted=2933ms clean=2143ms
+[latency] clip=4.8s release->pasted=829ms clean=491ms
+[latency] clip=120.0s release->pasted=824ms clean=344ms
+[latency] clip=42.9s release->pasted=1700ms clean=1312ms
+[latency] clip=89.3s release->pasted=3376ms clean=2304ms
+[latency] clip=18.5s release->pasted=1332ms clean=1019ms
+[latency] clip=33.9s release->pasted=1553ms clean=1183ms
+[latency] clip=32.6s release->pasted=1832ms clean=1444ms
+[latency] clip=32.7s release->pasted=1560ms clean=1191ms
+[latency] clip=11.5s release->pasted=1191ms clean=832ms
+[latency] clip=66.3s release->pasted=2696ms clean=1934ms
+[latency] clip=51.8s release->pasted=2288ms clean=1799ms
+[latency] clip=30.7s release->pasted=1763ms clean=1407ms
+[latency] clip=119.9s release->pasted=2247ms clean=1644ms
+[latency] clip=36.6s release->pasted=1460ms clean=1000ms
+[latency] clip=44.4s release->pasted=1521ms clean=1182ms
+[latency] clip=93.3s release->pasted=4107ms clean=2150ms
+[latency] clip=10.8s release->pasted=3175ms clean=1124ms
+[latency] clip=18.8s release->pasted=1550ms clean=1157ms
+[latency] clip=55.1s release->pasted=1925ms clean=1462ms
+[latency] clip=26.0s release->pasted=1595ms clean=1265ms
+[latency] clip=33.6s release->pasted=1734ms clean=1368ms
+[latency] clip=17.0s release->pasted=829ms clean=422ms
+[latency] clip=3.4s release->pasted=1119ms clean=453ms
+[latency] clip=40.4s release->pasted=1971ms clean=1494ms
+[latency] clip=32.0s release->pasted=1688ms clean=1296ms
+[latency] clip=61.3s release->pasted=1747ms clean=1328ms
+[latency] clip=52.9s release->pasted=1809ms clean=1381ms
+[latency] clip=8.3s release->pasted=1072ms clean=534ms
+[latency] clip=5.7s release->pasted=1528ms clean=941ms
+[latency] clip=45.4s release->pasted=1653ms clean=1141ms
+[latency] clip=30.2s release->pasted=1741ms clean=1293ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=5.7s release->pasted=1489ms clean=439ms
+[latency] clip=1.4s release->pasted=660ms clean=358ms
+[latency] clip=1.7s release->pasted=635ms clean=320ms
+[latency] clip=1.5s release->pasted=695ms clean=379ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=28.7s release->pasted=3295ms clean=1342ms
+[latency] clip=17.8s release->pasted=3185ms clean=1131ms
+[latency] clip=15.3s release->pasted=2478ms clean=1180ms
+[latency] clip=17.6s release->pasted=1565ms clean=1213ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=4.2s release->pasted=1979ms clean=1043ms
+[latency] clip=11.6s release->pasted=1605ms clean=1098ms
+[latency] clip=14.0s release->pasted=1294ms clean=871ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=106.9s release->pasted=3591ms clean=1987ms
+[latency] clip=30.8s release->pasted=1763ms clean=1302ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=8.3s release->pasted=3110ms clean=1094ms
+[latency] clip=3.9s release->pasted=1139ms clean=683ms
+[latency] clip=26.5s release->pasted=1848ms clean=1371ms
+[latency] clip=24.1s release->pasted=1658ms clean=1300ms
+[latency] clip=49.5s release->pasted=2249ms clean=1669ms
+[latency] clip=109.0s release->pasted=1106ms clean=544ms
+[latency] clip=23.0s release->pasted=1551ms clean=1194ms
+[latency] clip=9.3s release->pasted=1027ms clean=632ms
+[latency] clip=17.1s release->pasted=1533ms clean=1168ms
+[latency] clip=20.3s release->pasted=1753ms clean=1304ms
+[latency] clip=10.3s release->pasted=1337ms clean=930ms
+[latency] clip=7.4s release->pasted=1151ms clean=638ms
+[latency] clip=3.2s release->pasted=2155ms clean=1047ms
+[latency] clip=11.4s release->pasted=3155ms clean=1022ms
+[latency] clip=21.5s release->pasted=1676ms clean=1229ms
+[latency] clip=21.4s release->pasted=1325ms clean=814ms
+[latency] clip=120.0s release->pasted=5308ms clean=2255ms
+[latency] clip=61.2s release->pasted=2271ms clean=1405ms
+[latency] clip=2.2s release->pasted=877ms clean=456ms
+[latency] clip=38.5s release->pasted=2040ms clean=1398ms
+[latency] clip=120.0s release->pasted=6193ms clean=2428ms
+[latency] clip=98.2s release->pasted=3294ms clean=2085ms
+[latency] clip=113.7s release->pasted=3718ms clean=1970ms
+[latency] clip=1.2s release->pasted=861ms clean=453ms
+[latency] clip=120.0s release->pasted=3611ms clean=2563ms
+[latency] clip=52.9s release->pasted=2109ms clean=1532ms
+[latency] clip=20.5s release->pasted=1849ms clean=1373ms
+[latency] clip=6.4s release->pasted=1098ms clean=678ms
+[latency] clip=120.0s release->pasted=3022ms clean=1958ms
+[latency] clip=60.9s release->pasted=2482ms clean=1728ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=1.5s release->pasted=1310ms clean=825ms
+[latency] clip=63.6s release->pasted=2361ms clean=1644ms
+[latency] clip=5.4s release->pasted=1119ms clean=686ms
+[latency] clip=23.5s release->pasted=1375ms clean=849ms
+[latency] clip=47.8s release->pasted=1823ms clean=1353ms
+[latency] clip=7.9s release->pasted=912ms clean=434ms
+[latency] clip=2.5s release->pasted=837ms clean=506ms
+[latency] clip=37.2s release->pasted=3416ms clean=1243ms
+[latency] clip=7.2s release->pasted=851ms clean=485ms
+[latency] clip=10.0s release->pasted=1436ms clean=1125ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=120.0s release->pasted=2760ms clean=1838ms
+[latency] clip=26.7s release->pasted=1832ms clean=1354ms
+[latency] clip=73.5s release->pasted=2100ms clean=1425ms
+[latency] clip=21.2s release->pasted=1745ms clean=1312ms
+[latency] clip=38.9s release->pasted=1906ms clean=1428ms
+[latency] clip=25.6s release->pasted=1807ms clean=1337ms
+[latency] clip=24.1s release->pasted=1783ms clean=1370ms
+[latency] clip=2.5s release->pasted=950ms clean=560ms
+[latency] clip=8.1s release->pasted=1128ms clean=688ms
+[latency] clip=94.0s release->pasted=3214ms clean=2083ms

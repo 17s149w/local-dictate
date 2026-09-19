@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# App runtime data (audio + history are local, don't commit)
+*.wav
+*.sqlite
+*.db
+history.json
+audio/
+
+# OS
+.DS_Store
+
+# Models / weights
+models/
+*.bin
+*.gguf
+
+# Lifetime metrics accumulator (local, like history.json)
+stats.json
+history.json.bak
+
+# Dictation transcripts — real speech, never commit (latency.log is pure metrics, keep)
+logs/app.log
+logs/launch.log
+logs/stall-sample-*.txt

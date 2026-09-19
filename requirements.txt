@@ -1,0 +1,12 @@
+# Local Dictate runtime dependencies (macOS, Apple Silicon).
+# Pinned to the versions this has actually been run on.
+#
+# Not listed here, because they are not pip packages:
+#   - Ollama, plus `ollama pull gemma4:e2b` for the cleanup pass
+#   - macOS Accessibility + Microphone permissions (see docs/PERMISSIONS.md)
+
+rumps==0.4.0
+pynput==1.8.2
+sounddevice==0.5.5
+pywhispercpp==1.5.0
+numpy==2.5.1
