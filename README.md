@@ -18,7 +18,7 @@ The entire interface. 🎤 idle, 🔴 recording, ⏳ transcribing, back to 🎤.
 - Tap Right Command to paste the last result again.
 - Tracks words, dictations, and speaking speed over time.
 
-In daily use since July 2026. As of 2026-09-19: **396 dictations, 29,029 words, 4.5 hours of audio.**
+In daily use since July 2026. As of 2026-09-19: **406 dictations, 29,309 words, 4.5 hours of audio.**
 
 ## Why I built this
 
