@@ -423,3 +423,5 @@
 [latency] clip=2.5s release->pasted=950ms clean=560ms
 [latency] clip=8.1s release->pasted=1128ms clean=688ms
 [latency] clip=94.0s release->pasted=3214ms clean=2083ms
+[latency] clip=0.5s release->pasted=1ms
+[latency] clip=0.5s release->pasted=0ms
