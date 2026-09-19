@@ -13,7 +13,7 @@ Read `PRD.md` and `WORKPLAN.md` in full before writing any code. This file is th
 These two pull in tension sometimes (usability work costs tokens). Resolve it by shipping the smallest thing that's genuinely usable, in the WORKPLAN's risk-first order, and stopping there if credits run low.
 
 ## What we're building
-A **local, macOS, personal** push-to-talk voice dictation tool ("Whispr Flow" clone). Hold (or double-tap to latch) a hotkey → speak → local Whisper transcribes → local Gemma (via Ollama) cleans up → text pastes at the cursor. A menu-bar icon shows recording state and keeps a recoverable history. **Everything runs locally. Zero cloud/LLM calls at runtime.**
+A **local, macOS, personal** push-to-talk voice dictation tool, built as an offline alternative to cloud dictation tools like Whispr Flow. Hold (or double-tap to latch) a hotkey → speak → local Whisper transcribes → local Gemma (via Ollama) cleans up → text pastes at the cursor. A menu-bar icon shows recording state and keeps a recoverable history. **Everything runs locally. Zero cloud/LLM calls at runtime.**
 
 ## The numbers that define success
 - **Short clip (≤3s speech): ≤ 1.0s** end-to-end (key-release → pasted). This is the make-or-break metric.

@@ -1,6 +1,9 @@
-# PRD — Local Voice Dictation ("Whispr Flow" clone)
+# PRD — Local Dictate
 
 **Owner:** Sylvan · **Status:** Draft v1 · **Date:** 2026-07-19
+
+*Written before the project had a name. Only the title has been changed; the rest is the original 2026-07-19 document, including targets it later missed.*
+
 **One-liner:** A push-to-talk voice dictation tool that runs entirely on my Mac, transcribes speech locally, cleans it up with a local LLM, and pastes the result at my cursor — with a menu-bar history so no text is ever lost.
 
 ---
