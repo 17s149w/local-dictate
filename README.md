@@ -32,7 +32,7 @@ But cloud has significant drawbacks too:
 - I value privacy, and don't want private conversations leaving my device
 - The free tiers aren't generous enough for this poor college's kid's dictation needs :/
 
-But now that local models can run on-device, I can get much better responsiveness and formatting than just the native macOS dictation
+But now that local models can run on-device, I can get much better responsiveness and smart formatting than just the native macOS dictation
 
 And as a bonus, I can still work offline and my audio never leaves my device.
 
