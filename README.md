@@ -22,13 +22,19 @@ In daily use since July 2026. As of 2026-09-19: **406 dictations, 29,309 words, 
 
 ## Why I built this
 
-**Cloud-based dictation tools feel instant because someone else pays to keep a model warm around the clock. You pay them back in money, privacy, and a network connection. Local models finally got small enough that I can keep one warm myself.**
+I've never been satisfied with the native macOS dictation:
+- Startup feels slow enough that I still resort to typing, especially for short notes
+- Formatting defaults to a block of text, rather than setting off lists and quotes
 
-MacOS dictation worked well for me -- except that the lag on startup made it feel unusable. 
+In contrast, cloud-based dictation tools feel instant and provide amazing context-aware formatting. 
+But cloud has significant drawbacks too:
+- Requires an internet connection (a significant drawback because I do my most focused work offline)
+- I value privacy, and don't want private conversations leaving my device
+- The free tiers aren't generous enough for this poor college's kid's dictation needs :/
 
-By keeping small local models warm with my own app, I get much better responsiveness and formatting than macOS.
+But now that local models can run on-device, I can get much better responsiveness and formatting than just the native macOS dictation
 
-As a bonus, I can still work offline and my audio never leaves my device.
+And as a bonus, I can still work offline and my audio never leaves my device.
 
 ```mermaid
 %%{init: {'theme':'neutral','quadrantChart':{'pointRadius':9,'pointLabelFontSize':14,'pointTextPadding':26,'quadrantLabelFontSize':16,'titleFontSize':18}}}%%
